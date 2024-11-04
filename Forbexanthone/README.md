@@ -1,6 +1,6 @@
 # Forbexanthone
 
-A xanthone isolated from *Garcinia griffithii* T. Anderson (Clusiaceae) as published in [Biochemical Systematics and Ecology 116 (2024) 104869](https://doi.org/10.1016/j.bse.2024.104869).
+A xanthone isolated from *Garcinia griffithii* T. Anderson (Clusiaceae) as published in [*Biochemical Systematics and Ecology* **116** (2024) 104869](https://doi.org/10.1016/j.bse.2024.104869).
 The publication reports the <sup>13</sup>C NMR chemical shifts of forbexanthone dissolved in C<sub>5</sub>D<sub>5</sub>N.
 
 ```
@@ -33,5 +33,5 @@ The structure identified with the best similarity score (85%) is the one of [O-D
 This structure does not account for the presence of an aromatic methoxy group, the one at $\delta$ 56.8.
 ![O-Demethylforbexanthone](O-Demethylforbexanthone.png)
 
-The structure with the best second similarity score is (75%) is the one of [Forbexanthone](https://www.wikidata.org/wiki/Q104399389).
+The structure with the second best similarity score is (75%) is the one of [Forbexanthone](https://www.wikidata.org/wiki/Q104399389).
 ![Forbexanthone](Forbexanthone.png)
