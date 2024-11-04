@@ -3,6 +3,7 @@
 A xanthone isolated from *Garcinia griffithii* T. Anderson (Clusiaceae) as published in [Biochemical Systematics and Ecology 116 (2024) 104869](https://doi.org/10.1016/j.bse.2024.104869).
 The publication reports the <sup>13</sup>C NMR chemical shifts of forbexanthone dissolved in C<sub>5</sub>D<sub>5</sub>N.
 
+```
 164.5
 98.2
 167.2
@@ -21,6 +22,7 @@ The publication reports the <sup>13</sup>C NMR chemical shifts of forbexanthone 
 78.6
 28.6
 56.4
+```
 
 These values were measured for the first time by the authors, even though forbexanthone is not a new compound.
 
